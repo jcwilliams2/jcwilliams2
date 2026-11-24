@@ -24,7 +24,3 @@ I build ML/AI systems with measurable outcomes — recommendation engines, NLP p
 **→ See my full project portfolio at [jcwilliams2.github.io](https://jcwilliams2.github.io)**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcwilliams2&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
